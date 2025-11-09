@@ -1,0 +1,1 @@
+SELESCT * FROM usuarios WHERE idade = 26;
